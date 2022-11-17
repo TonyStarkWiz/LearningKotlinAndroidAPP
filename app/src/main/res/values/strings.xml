@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LearningKotlin</string>
+    <string name="textWord">Hello World!</string>
+</resources>
